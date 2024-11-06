@@ -33,9 +33,11 @@ Here, use the %WORKSPACE% Variable to reference the workspace directory where Je
 
 For example:
 cd %WORKSPACE%
+
 pytest --browser %Browser% --url %URL% --html=report.html
 
 Then click on Apply and Save 
+![15](https://github.com/user-attachments/assets/0166eb72-b555-43ad-b1a0-4c035e013c23)
 
 # Step 6: Run the Jenkins Job with Parameters
 Go to the job's main page in Jenkins
