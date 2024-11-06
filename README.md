@@ -42,6 +42,7 @@ Go to the job's main page in Jenkins
 Click on 'Build with Parameters' on the left menu
 Choose your parameters (Eg: Browser, URL) and click on Build
 ![11](https://github.com/user-attachments/assets/62ac8704-4843-4fdf-809e-140916c5a5b9)
+![5](https://github.com/user-attachments/assets/4ea54aa8-ef13-49e0-aecd-13484a64e5f3)
 
 # Step 7: Review the Console Output
 Once the job starts, click Console Output to view the progress. 
