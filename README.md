@@ -58,5 +58,5 @@ The Test Report
 # Additional Tips
 Test Reporting: You can use plugins like JUnit or Allure for reporting test results in Jenkins.
 
-With these setups, you now have an automated and parameterized Jenkins job for running tests across different environments and configurations.
+With this setup, you now have an automated and parameterized Jenkins job for running tests across different environments and configurations.
 
