@@ -32,6 +32,7 @@ Here, use the %WORKSPACE% Variable to reference the workspace directory where Je
 ![14](https://github.com/user-attachments/assets/625228b5-3c51-4953-b904-348579cd5f51)
 
 For example:
+
 cd %WORKSPACE%
 
 pytest --browser %Browser% --url %URL% --html=report.html
